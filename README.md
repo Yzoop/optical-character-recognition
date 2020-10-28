@@ -1,4 +1,4 @@
-# optical-character-recognition
+# optical-character-recognition research
 ![alt text](https://github.com/Yzoop/optical-character-recognition/blob/main/proj_imgs/background.png?raw=true)
 Optical character recognition project was created for of researching object detection problem, especially characters. Also it's interesting to find out whether it is possible to use a generated dataset for predicting real-world data.<br>
 
