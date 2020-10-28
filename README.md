@@ -15,3 +15,6 @@ What has been researched: <br>
 
 EfficientDet was compared to yolov3 on datasets with 10, 15, 38 classes of characters
  ![alt text](https://github.com/Yzoop/optical-character-recognition/blob/main/proj_imgs/yolov_vs_effdet.png)
+
+
+The dataset can be found <a href="https://www.kaggle.com/ivankalinchuk/charaters-for-detection-classification">here</a> (kaggle).
